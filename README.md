@@ -2,11 +2,11 @@
 
 👀 I’m interested in software development and Java programming.
 
-🌱 I’m currently learning Java development, with a focus on Spring, Spring MVC, Spring Boot, and Hibernate.
+🌱 I’m currently learning full stack Java development, with a focus on Spring, Spring Boot, Hibernate and React.
 
 💞️ I’m looking to collaborate on open-source projects related to Java development.
 
-📫 You can reach me via email at chethangangadhar58@gmail.com
+📫 You can reach me via email at chethanyg57@gmail.com
 
 😄 Pronouns: He/Him
 
@@ -17,6 +17,8 @@
 - Hibernate
 - MySQL
 - HTML/CSS
+- JavaScript
+- React
 
 ### Interests:
 - Coding
