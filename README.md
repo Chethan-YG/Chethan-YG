@@ -35,13 +35,13 @@
 ## 🎯 Interests & Hobbies
 
 ### 🎯 Interests:
-✔️ Coding
-✔️ Problem Solving
-✔️ Exploring New Technologies
+- ✔️ Coding
+- ✔️ Problem Solving
+- ✔️ Exploring New Technologies
 
 ### 🎨 Hobbies:
-🖌️ Drawing
-✈️ Traveling
+- 🖌️ Drawing
+- ✈️ Traveling
 
 ## 📈 GitHub Stats
 
