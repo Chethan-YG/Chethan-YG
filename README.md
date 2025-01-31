@@ -3,8 +3,6 @@
 🚀 **Aspiring Full Stack Java Developer** | Passionate about building scalable applications!
 
 
----
-
 ## 💡 About Me
 
 - 🔹 Enthusiastic software developer with a strong passion for Java programming and problem-solving.
@@ -14,8 +12,6 @@
 
 📬 Reach me at: **chethanyg57@gmail.com**
 
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +32,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
----
 
 ## 🎯 Interests & Hobbies
 
@@ -50,8 +45,6 @@
 ✈️ Traveling
 
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -60,7 +53,6 @@
 </p>  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-YG&layout=compact&theme=tokyonight" width="48%" />
 </p>  
----
 
 ⭐ Let's connect and collaborate!
 💻 Happy Coding! 
