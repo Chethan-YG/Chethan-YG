@@ -47,13 +47,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chethan-YG&show_icons=true&theme=tokyonight" width="48%" />
-</p> <p>
+</p> 
+<p align="center">
 <img src="https://github-readme-streak-stats.vercel.app/?user=Chethan-YG&theme=tokyonight" width="48%" />
-
-</p>  <p align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-YG&layout=compact&theme=tokyonight" width="48%" />
-</p>  
----
+</p>
 
 ⭐ Let's connect and collaborate!
 💻 Happy Coding!
