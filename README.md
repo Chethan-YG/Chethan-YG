@@ -47,6 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chethan-YG&show_icons=true&theme=tokyonight" width="48%" />
+</p> <p>
 <img src="https://github-readme-streak-stats.vercel.app/?user=Chethan-YG&theme=tokyonight" width="48%" />
 
 </p>  <p align="center">
